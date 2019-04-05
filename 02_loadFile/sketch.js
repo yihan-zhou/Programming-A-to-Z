@@ -12,8 +12,8 @@ function setup() {
 
   createFileInput(fileSelected);
 
-  var button = select('#loadfile');
-  button.mousePressed(loadfile);
+  // var button = select('#loadfile');
+  // button.mousePressed(loadfile);
 }
 
 function fileSelected(file) {
